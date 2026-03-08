@@ -18,7 +18,7 @@ theme = "printwire-theme"
   web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
   xometryId      = "XOMETRY_AFFILIATE_ID"
   domain         = "3dprinttitanium.com"
-  heroImage      = "/images/01_aerospace_part.png"
+  heroImage      = "/images/02_laser_melting.png"
 
 [[params.stats]]
   number = "1055"
@@ -39,25 +39,25 @@ theme = "printwire-theme"
 [[params.services]]
   title = "Aerospace Titanium Parts"
   icon  = "◎"
-  image = "/images/06_aerospace_bracket.png"
+  image = "/images/03_internal_channels.png"
   short = "Ti6Al4V DMLS structural components for aerospace — brackets, ducting, housings, and topology-optimized flight-critical hardware."
 
 [[params.services]]
   title = "Medical Implants"
   icon  = "✦"
-  image = "/images/05_medical_implant.png"
+  image = "/images/04_support_attached.png"
   short = "Patient-specific orthopedic implants, spinal cages, dental prosthetics, and surgical tools in ASTM F136 Ti6Al4V ELI."
 
 [[params.services]]
   title = "Post-Processing & Finishing"
   icon  = "⚙"
-  image = "/images/08_polished_spec.png"
+  image = "/images/05_medical_implant.png"
   short = "HIP, stress relief, anodizing, CNC machining, and surface finishing for production-grade titanium parts."
 
 [[params.services]]
   title = "Specialty Alloys & Research"
   icon  = "◈"
-  image = "/images/09_tensile_sample.png"
+  image = "/images/06_aerospace_bracket.png"
   short = "Pure titanium Grade 2, Ti-5553, and beta-titanium alloys for research, high-temperature, and corrosion applications."
 
 [markup.goldmark.renderer]

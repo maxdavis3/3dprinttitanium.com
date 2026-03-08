@@ -2,7 +2,7 @@
 title: "About 3D Print Titanium"
 description: "The authoritative resource on titanium additive manufacturing for aerospace, medical, and industrial applications."
 layout: "about"
-image: "/images/01_aerospace_part.png"
+image: "/images/09_tensile_sample.png"
 ---
 
 ## Titanium. Direct Metal Laser Sintering. Zero Compromise.

@@ -2,7 +2,7 @@
 title: "Titanium 3D Printing Services"
 description: "DMLS titanium parts for aerospace, medical implants, and industrial applications. Ti6Al4V, Grade 2, and specialty alloys."
 layout: "services"
-image: "/images/01_aerospace_part.png"
+image: "/images/10_racing_component.png"
 ---
 
 ## Aerospace Titanium Parts
