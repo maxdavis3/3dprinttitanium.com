@@ -1,0 +1,64 @@
+baseURL = "https://3dprinttitanium.com/"
+languageCode = "en-us"
+title = "3D Print Titanium"
+theme = "printwire-theme"
+
+[params]
+  siteName       = "3D Print Titanium"
+  tagline        = "Ti6Al4V DMLS titanium printing for aerospace and medical applications. 993–1055 MPa tensile strength, 99.5% density, ASTM F136 compliance."
+  primaryColor   = "#5a9fd4"
+  bgColor        = "#050a10"
+  fontPrimary    = "Orbitron"
+  fontSecondary  = "Space Grotesk"
+  fontURL        = "https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+  ogImage        = "https://images.unsplash.com/photo-1759307335435-aa671e13127f?w=1200&q=80"
+  favicon        = "🔩"
+  pubmedQuery    = "titanium+DMLS+3D+printing+aerospace+medical+Ti6Al4V+additive+manufacturing"
+  contactEmail   = "maxdavisgroup@gmail.com"
+  web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
+  xometryId      = "XOMETRY_AFFILIATE_ID"
+  domain         = "3dprinttitanium.com"
+  heroImage      = "https://images.unsplash.com/photo-1759307335435-aa671e13127f?w=1200&q=80"
+
+[[params.stats]]
+  number = "1055"
+  label  = "MPa Tensile Strength"
+
+[[params.stats]]
+  number = "99.5%"
+  label  = "Part Density"
+
+[[params.stats]]
+  number = "ASTM"
+  label  = "F136 Compliance"
+
+[[params.stats]]
+  number = "Ti6Al4V"
+  label  = "ELI Grade Available"
+
+[[params.services]]
+  title = "Aerospace Titanium Parts"
+  icon  = "◎"
+  image = "https://images.unsplash.com/photo-1759307335435-aa671e13127f?w=600&q=80"
+  short = "Ti6Al4V DMLS structural components for aerospace — brackets, ducting, housings, and topology-optimized flight-critical hardware."
+
+[[params.services]]
+  title = "Medical Implants"
+  icon  = "✦"
+  image = "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600&q=80"
+  short = "Patient-specific orthopedic implants, spinal cages, dental prosthetics, and surgical tools in ASTM F136 Ti6Al4V ELI."
+
+[[params.services]]
+  title = "Post-Processing & Finishing"
+  icon  = "⚙"
+  image = "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&q=80"
+  short = "HIP, stress relief, anodizing, CNC machining, and surface finishing for production-grade titanium parts."
+
+[[params.services]]
+  title = "Specialty Alloys & Research"
+  icon  = "◈"
+  image = "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=80"
+  short = "Pure titanium Grade 2, Ti-5553, and beta-titanium alloys for research, high-temperature, and corrosion applications."
+
+[markup.goldmark.renderer]
+  unsafe = true
