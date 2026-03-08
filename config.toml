@@ -62,3 +62,33 @@ theme = "printwire-theme"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[[menu.main]]
+  name   = "Home"
+  url    = "/"
+  weight = 1
+
+[[menu.main]]
+  name   = "About"
+  url    = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name   = "Articles"
+  url    = "/articles/"
+  weight = 3
+
+[[menu.main]]
+  name   = "Services"
+  url    = "/services/"
+  weight = 4
+
+[[menu.main]]
+  name   = "Contact"
+  url    = "/contact/"
+  weight = 5
+
+[[menu.main]]
+  name   = "Advertise"
+  url    = "/advertise/"
+  weight = 6

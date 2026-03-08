@@ -13,7 +13,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family={{ .Site.Params.fontPrimary | default "Josefin+Sans" }}:wght@300;400;600;700&family={{ .Site.Params.fontSecondary | default "Lato" }}:wght@300;400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
-<link rel="icon" href="{{ .Site.BaseURL }}favicon.svg" type="image/svg+xml">
+<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">{{ .Site.Params.favicon | default "🔧" }}</text></svg>'>
 
 {{/* Per-site color overrides — safeCSS required for rgba() values */}}
 {{ $css := printf ":root{--primary:%s;--primary-dark:%s;--primary-light:%s;--bg-dark:%s;--bg-section:%s;--bg-card:%s;--bg-card-hover:%s;--border:%s;--border-light:%s;}"
