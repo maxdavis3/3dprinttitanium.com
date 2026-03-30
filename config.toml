@@ -16,7 +16,7 @@ theme = "printwire-theme"
   pubmedQuery    = "titanium+DMLS+3D+printing+aerospace+medical+Ti6Al4V+additive+manufacturing"
   contactEmail   = "maxdavisgroup@gmail.com"
   web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
-  xometryId      = "XOMETRY_AFFILIATE_ID"
+  sculpteoRef     = "printwire"
   domain         = "3dprinttitanium.com"
   heroImage      = "images/02_laser_melting.png"
   overviewImage  = "images/12_structural_beam.png"
@@ -102,16 +102,21 @@ theme = "printwire-theme"
   weight = 3
 
 [[menu.main]]
+  name   = "Research"
+  url    = "/research/"
+  weight = 4
+
+[[menu.main]]
   name   = "Services"
   url    = "/services/"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name   = "Contact"
   url    = "/contact/"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name   = "Advertise"
   url    = "/advertise/"
-  weight = 6
+  weight = 7
