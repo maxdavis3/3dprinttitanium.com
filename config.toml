@@ -120,3 +120,8 @@ theme = "printwire-theme"
   name   = "Advertise"
   url    = "/advertise/"
   weight = 7
+
+[[menu.main]]
+name   = "3D Viewer"
+url    = "/viewer.html"
+weight = 99
